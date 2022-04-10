@@ -1,0 +1,15 @@
+.form-style{
+    border: 3px solid gray;
+    padding: 30px 10px;
+    text-align: left;
+    border-radius: 5px;
+}
+.button{
+    border: none;
+    background-color: transparent;
+    color: blue;
+    border-bottom: 1px solid blue;
+    margin-bottom: 5px;
+    width: 200px;
+    border: none;
+}
